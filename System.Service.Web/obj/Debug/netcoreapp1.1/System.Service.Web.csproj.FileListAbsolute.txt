@@ -1,0 +1,9 @@
+C:\git\obero\spm\system-service\System.Service.Web\bin\Debug\netcoreapp1.1\System.Service.Web.deps.json
+C:\git\obero\spm\system-service\System.Service.Web\bin\Debug\netcoreapp1.1\System.Service.Web.runtimeconfig.json
+C:\git\obero\spm\system-service\System.Service.Web\bin\Debug\netcoreapp1.1\System.Service.Web.runtimeconfig.dev.json
+C:\git\obero\spm\system-service\System.Service.Web\bin\Debug\netcoreapp1.1\System.Service.Web.dll
+C:\git\obero\spm\system-service\System.Service.Web\obj\Debug\netcoreapp1.1\System.Service.Web.csprojResolveAssemblyReference.cache
+C:\git\obero\spm\system-service\System.Service.Web\obj\Debug\netcoreapp1.1\System.Service.Web.AssemblyInfo.cs
+C:\git\obero\spm\system-service\System.Service.Web\bin\Debug\netcoreapp1.1\System.Service.Web.pdb
+C:\git\obero\spm\system-service\System.Service.Web\obj\Debug\netcoreapp1.1\System.Service.Web.dll
+C:\git\obero\spm\system-service\System.Service.Web\obj\Debug\netcoreapp1.1\System.Service.Web.pdb
